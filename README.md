@@ -18,7 +18,7 @@ Total Customers: 7,043
 Churned Customers: 1,869
 Churn Rate: 26.54%
 Average Tenure: 32.37 months
- Average Monthly Charges:
+Average Monthly Charges:
                         Churned: $74.4
                         Retained: $61.3
 
@@ -87,7 +87,7 @@ Reduce revenue loss.
 Make strategic decisions using data.
 
 ## 📸 Dashboard Preview
- Screnshots folder.
+Screnshots folder.
 
 ## 📬 Author
 
